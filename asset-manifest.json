@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/letterboxd/static/css/main.073c9b0a.css",
+    "main.js": "/letterboxd/static/js/main.8fe397ab.js",
+    "static/js/787.589b8867.chunk.js": "/letterboxd/static/js/787.589b8867.chunk.js",
+    "static/media/logo.svg": "/letterboxd/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/letterboxd/index.html",
+    "main.073c9b0a.css.map": "/letterboxd/static/css/main.073c9b0a.css.map",
+    "main.8fe397ab.js.map": "/letterboxd/static/js/main.8fe397ab.js.map",
+    "787.589b8867.chunk.js.map": "/letterboxd/static/js/787.589b8867.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8fe397ab.js"
+  ]
+}
