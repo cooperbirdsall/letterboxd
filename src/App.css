@@ -1,38 +1,350 @@
+@font-face {
+  font-family: "Abhaya";
+  src: url("./fonts/AbhayaLibre-ExtraBold.ttf");
+}
+@font-face {
+  font-family: "Inter-Bold";
+  src: url("./fonts/Inter-Bold.ttf");
+}
+@font-face {
+  font-family: "Inter-Medium";
+  src: url("./fonts/Inter-Medium.ttf");
+}
+@font-face {
+  font-family: "Inter-SemiBold";
+  src: url("./fonts/Inter-SemiBold.ttf");
+}
+@font-face {
+  font-family: "Inter-ExtraBold";
+  src: url("./fonts/Inter-ExtraBold.ttf");
+}
+@font-face {
+  font-family: "LexendMega";
+  src: url("./fonts/LexendMega-Light.ttf");
+}
+
+html {
+  background-color: #15181C;
+}
+
+body {
+  width: 100%;
+  background-color: #15181C;
+}
+
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  margin-top: 30px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  background-color: #15181C;
+  position: relative;
+  height: 100vh;
+}
+
+h1 {
+  font-family: "Abhaya";
+  font-size: 45px;
+  color: #ffffff;
+  letter-spacing: 0.1px;
+}
+
+/* "REVIEWS OF" */
+h2 {
+  font-family: "Inter-Medium";
+  font-size: 12px;
+  letter-spacing: 0.3px;
+  color: #9CA9B9;
+}
+
+/* "Reviewed by" */
+h3 {
+  font-family: "Inter-Medium";
+  font-size: 12px;
+  letter-spacing: 0.3px;
+  color: #697686;
+  margin: 0 0 1px 0px;
+}
+
+/* username */
+strong {
+  font-family: "Inter-Bold";
+  font-size: 12px;
+  letter-spacing: 0.3px;
+  color: #9CA9B9;
+  margin-left: 3px;
+}
+
+p {
+  font-family: "Inter-Medium";
+  font-size: 14px;
+  letter-spacing: 0.3px;
+  color: #9CA9B9;
+  margin: 0;
+}
+
+#search {
+  width: 55%;
+  position: relative;
+  margin-top: -20px;
+}
+
+button {
+  font-family: "Inter-ExtraBold";
+  color: #fff;
+  font-size: 20px;
+  background-color: #4EAD3C;
+  box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+  width: 110px;
+  height: 62px;
+  border: 1px solid #D9D9D9;
+  border-radius: 8px;
+
+  position: absolute;
+  right: 1px;
+  top: 1px;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #3e882f;
+}
+
+#solution-wrapper {
+  margin-top: 60px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  height: 75px;
+  width: 55%;
+}
+
+#title-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  height: 75px;
+  flex: 8;
+  position: relative;
+}
+
+.answer-text-big {
+  font-size: 60px;
+  margin: -31px 0 -23px 0;
+}
+
+.answer-text-medium {
+  font-size: 40px;
+  margin: -22px 0 -14px 0;
+}
+
+.answer-text-small {
+  font-size: 30px;
+  margin: -10px 0 1px 0;
+  line-height: 30px;
+}
+
+#year-text {
+  font-size: 30px;
+  color: white;
+  font-family: "Inter-Medium";
+  letter-spacing: 0.3px;
+  margin: -17px 0 -4px 0;
+}
+
+#year-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  margin-left: 5px;
+  position: relative;
+
+}
+
+#rating-wrapper {
+  flex: 1;
+  display: flex;
+  margin-left: 21px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  margin-bottom: 1px;
+  position: relative;
+
+}
+
+#rating-text {
+  font-size: 30px;
+  color: #9CA9B9;
+  font-family: "Inter-Medium";
+  letter-spacing: 0.3px;
+  margin: 0 0 -10px 0;
+}
+
+.stars {
+  color: rgb(99, 218, 84);
+  letter-spacing: -2px;
+  margin: 0;
+}
+
+#review-wrapper {
+  width: 55%;
+  margin-top: 25px;
+}
+
+.review {
+  width: 100%;
+  border-bottom: 1px solid rgba(105, 118, 134, 0.6);
+  padding: 25px 0px 25px 10px;
+}
+
+.review:first-of-type {
+  border-top: 1px solid rgba(105, 118, 134, 0.6);
+}
+
+.review-stars {
+  margin-left: -2px;
+}
+
+.review-metadata {
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+#title-cover {
+  width: 99%;
+  height: 55px;
+  background-color: #697686;
+  position: absolute;
+  top: 25px;
+  left: -1px;
+  font-family: "Inter-Medium";
+  font-style: italic;
+  color: #697686;
+  transition: 0.2s;
+  font-size: 20px;
+  padding: 12px 0px 0px 13px;
+}
+
+#title-cover-text {
+  font-style: normal;
+  position: absolute;
+  top: -27.5px;
+  left: 1px;
+}
+
+#title-cover:hover {
+  cursor: pointer;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+#year-cover {
+  width: 113%;
+  height: 55px;
+  background-color: #697686;
+  position: absolute;
+  top: 14px;
+  left: 0;
+  font-family: "Inter-Medium";
+  font-style: italic;
+  color: #697686;
+  transition: 0.2s;
+  font-size: 20px;
+  text-align: center;
+  padding: 12px 3px 0px 0px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#year-cover-text {
+  font-style: normal;
+  position: absolute;
+  top: -27.5px;
+}
+
+#year-cover:hover {
+  cursor: pointer;
+  color: white;
+}
+
+#rating-cover {
+  width: 99%;
+  height: 55px;
+  background-color: #697686;
+  position: absolute;
+  top: 9px;
+  left: 0;
+  font-family: "Inter-Medium";
+  font-style: italic;
+  color: #697686;
+  transition: 0.2s;
+  font-size: 20px;
+  text-align: center;
+  padding: 12px 3px 0px 0px;
+}
+
+#rating-cover:hover {
+  cursor: pointer;
+  color: white;
+}
+
+#show-more-button {
+  background-color: rgba(0, 0, 0, 0);
+  font-family: "Inter-Medium";
+  font-size: 15px;
+  border: 1px solid #697686;
+  border-radius: 13px;
+  width: 213px;
+  height: 32px;
+  position: relative;
+  transition: 0.2s;
+  margin-top: 25px;
+}
+
+#show-more-button:hover {
+  cursor: pointer;
+  background-color: #697686;
+}
+
+#show-more-plus {
+  color: #4EAD3C;
+  font-size: 30px;
+  position: absolute;
+  top: -11px;
+  left: 12px;
+}
+
+#show-more-text {
+  position: absolute;
+  top: 4px;
+  left: 40px;
+  color: white;
+}
+
+.wrong-x {
+  color: #C71717;
+  font-family: "LexendMega";
+  font-size: 13px;
+  margin-top: 2px;
+  margin-right: 2px;
+}
+
+.wrong-guess {
+  font-family: "Inter-Medium";
+  color: #9CA9B9;
+  font-size: 15px;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+#wrong-guess-wrapper {
+  display: flex;
+  flex-direction: row;
+  margin-top: 8px;
+  /* align-self: flex-start; */
 }
