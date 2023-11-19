@@ -4522,12 +4522,6 @@ export const films = [
 			},
 			{
 				"rating": "★★½",
-				"profileUrl": "/ihe/film/us-2019/",
-				"username": "IHE",
-				"review": "1000th logged movie! "
-			},
-			{
-				"rating": "★★½",
 				"profileUrl": "/blesmes/film/us-2019/",
 				"username": "blesmes",
 				"review": "WHAT MOVIE DID YOU PEOPLE WATCH"
@@ -4544,12 +4538,6 @@ export const films = [
 				"username": "sree",
 				"review": "i can't believe the biggest audience reaction was when the girl said she didn't know what home alone was"
 			},
-			{
-				"rating": "★★★★½",
-				"profileUrl": "/deathproof/film/us-2019/",
-				"username": "Lucy",
-				"review": "“what do you want?”"
-			}
 		]
 	},
 	{

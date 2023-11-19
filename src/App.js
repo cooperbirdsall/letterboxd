@@ -47,7 +47,7 @@ function App() {
       let selected = totalList[rand];
       //censor review if it contains the title
       selected.review = selected.review.replaceAll(reg, "[redacted]");
-      if (selected.review.length < 6) {
+      if (selected.review.length < 7) {
         //if the review is badly formatted skip it and try again
         totalList.splice(rand, 1);
         const newRand = Math.floor(Math.random() * totalList.length);
