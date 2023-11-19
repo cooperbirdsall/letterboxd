@@ -31,6 +31,12 @@ function App() {
       return "answer-text-small";
     }
   });
+  /**
+   * IF LENGTH OF REVIEW LESS THAN [NUMBER], DONT SHOW BC BROKEN
+   * 
+   * ALSO this BROKEN
+   * Birdman or (The Unexpected Virtue of Ignorance)
+   */
   const [reviews] = useState(() => {
     let totalList = currentFilm.reviews;
     let newList = [];
@@ -41,8 +47,18 @@ function App() {
       let selected = totalList[rand];
       //censor review if it contains the title
       selected.review = selected.review.replaceAll(reg, "[redacted]");
-      newList.push(selected);
-      totalList.splice(rand, 1);
+      if (selected.review.length < 6) {
+        //if the review is badly formatted skip it and try again
+        totalList.splice(rand, 1);
+        const newRand = Math.floor(Math.random() * totalList.length);
+        let newSelected = totalList[newRand];
+        newSelected.review = newSelected.review.replaceAll(reg, "[redacted]");
+        newList.push(newSelected);
+        totalList.splice(newRand, 1);
+      } else {
+        newList.push(selected);
+        totalList.splice(rand, 1);
+      }
     }
     return newList;
   });

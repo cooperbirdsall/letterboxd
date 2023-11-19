@@ -2451,24 +2451,6 @@ export const films = [
 		"rating": "3.85",
 		"reviews": [
 			{
-				"rating": "★★★★",
-				"profileUrl": "/davidehrlich/film/avengers-endgame/",
-				"username": "davidehrlich",
-				"review": "INFINITY WAR: unwatchable space trash. one of the worst movies in the MCU."
-			},
-			{
-				"rating": "★★★★★",
-				"profileUrl": "/itssofyann/film/avengers-endgame/4/",
-				"username": "sofyan",
-				"review": "Thanos: I am inevitable."
-			},
-			{
-				"rating": "★★★½",
-				"profileUrl": "/jay/film/avengers-endgame/1/",
-				"username": "Jay",
-				"review": "[thanos enters the avengers barber shop]"
-			},
-			{
 				"rating": "★★★½",
 				"profileUrl": "/deathproof/film/avengers-endgame/2/",
 				"username": "Lucy",
@@ -24432,12 +24414,6 @@ export const films = [
 				"review": "\"For me, the sun rises and sets with her, man.\"\n\"Yeah?\"\n\"Yeah.\"\n\"OK.\""
 			},
 			{
-				"rating": "",
-				"profileUrl": "/estefansky/film/heat-1995/",
-				"username": "Emma Stefansky",
-				"review": "I’m sorry"
-			},
-			{
 				"rating": "★★★★",
 				"profileUrl": "/jay/film/heat-1995/",
 				"username": "Jay",
@@ -26876,85 +26852,6 @@ export const films = [
 				"profileUrl": "/leeyim/film/midnight-in-paris/1/",
 				"username": "liam f",
 				"review": "where there's a Wilson, there's a wow"
-			}
-		]
-	},
-	{
-		"title": "The Queen's Gambit",
-		"year": "2020",
-		"rating": "4.23",
-		"reviews": [
-			{
-				"rating": "★★★★½",
-				"profileUrl": "/jackwakelin/film/the-queens-gambit/",
-				"username": "jack",
-				"review": "anya taylor joy: *moves bishop to K4*"
-			},
-			{
-				"rating": "",
-				"profileUrl": "/kun/film/the-queens-gambit/",
-				"username": "Hungkat",
-				"review": "Anya Taylor-Joy: *stares directly into the camera with her glinting eyes after moving a chess piece*"
-			},
-			{
-				"rating": "",
-				"profileUrl": "/sonnywortzik/film/the-queens-gambit/",
-				"username": "Vivian",
-				"review": "I feel about Anya Taylor Joy in this the way 2012 tumblr girls felt about Benedict Cumberbatch in Sherlock"
-			},
-			{
-				"rating": "★★★★★",
-				"profileUrl": "/pizzapianet/film/the-queens-gambit/",
-				"username": "🧃",
-				"review": "i admire them for not even attempting to explain to us how chess works"
-			},
-			{
-				"rating": "★★★½",
-				"profileUrl": "/brat/film/the-queens-gambit/",
-				"username": "brat pacino",
-				"review": "an unexpectedly edgy, introspective exploration of female desire and obsession wrapped up in the guise of a straight-laced chess drama (once you get past the lifeless-but-necessary first episode). all bisexual girl geniuses know how to do is smoke weed, pwn boys at chess, doink french models, unhealthily cope with childhood trauma, and lie"
-			},
-			{
-				"rating": "★★★½",
-				"profileUrl": "/kurstboy/film/the-queens-gambit/",
-				"username": "Karst",
-				"review": "Anya Taylor-Joy has done so much and is still someone whose career I’m so excited to watch progress. This is fun as hell! And the editing is sexy. If nothing else, it made me download a chess app that I deleted less than 10 minutes later!"
-			},
-			{
-				"rating": "★★★★½",
-				"profileUrl": "/lumpypress/film/the-queens-gambit/",
-				"username": "LUMPYPRESS",
-				"review": "Great. Now I'm horny for chess."
-			},
-			{
-				"rating": "★★★★½",
-				"profileUrl": "/incrediblybleak/film/the-queens-gambit/",
-				"username": "adam",
-				"review": "her eyeliner .. i can hear god"
-			},
-			{
-				"rating": "★★★★",
-				"profileUrl": "/ioganierman/film/the-queens-gambit/",
-				"username": "jeremy",
-				"review": "I THINK WE CAN ALL AGREE THAT ANYA TAYLOR-JOY"
-			},
-			{
-				"rating": "★★★★★",
-				"profileUrl": "/sapphical/film/the-queens-gambit/",
-				"username": "aliyah",
-				"review": "if i’d written a list of things that i thought i would’ve done in 2020, crying over chess probably would’ve came in at absolutely dead last... and yet here we are"
-			},
-			{
-				"rating": "",
-				"profileUrl": "/deathproof/film/the-queens-gambit/",
-				"username": "Lucy",
-				"review": "anya taylor-joy single-handedly making chess cool and sexy... everyone say thank you"
-			},
-			{
-				"rating": "★★★★½",
-				"profileUrl": "/dodi_/film/the-queens-gambit/",
-				"username": "dodi",
-				"review": "Anya Taylor-Joy looking beautiful, being chaotic, and crushing men all around the world is right up my alley"
 			}
 		]
 	},
@@ -35877,12 +35774,6 @@ export const films = [
 				"review": "sometimes you’re up, sometimes you’re down, and sometimes you’ve just watched Edge of Tomorrow (way up!!)"
 			},
 			{
-				"rating": "★★★★",
-				"profileUrl": "/syaoran/film/edge-of-tomorrow/1/",
-				"username": "Syaoran",
-				"review": "Bill Cage met Rita Vrataski for a hundred or even thousand of times. Dude probably knew her better than anyone. But for Rita, every encounter with him is a first. This is why I love when she said this one:"
-			},
-			{
 				"rating": "★★★½",
 				"profileUrl": "/nycsubwayrat/film/edge-of-tomorrow/",
 				"username": "lauren",
@@ -39774,12 +39665,6 @@ export const films = [
 		"year": "2021",
 		"rating": "4.23",
 		"reviews": [
-			{
-				"rating": "★★★★★",
-				"profileUrl": "/empatters2/film/marcel-the-shell-with-shoes-on-2021/",
-				"username": "emma",
-				"review": "ZZZZZZZZZZzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz"
-			},
 			{
 				"rating": "★★★★★",
 				"profileUrl": "/kurstboy/film/marcel-the-shell-with-shoes-on-2021/",
@@ -49443,12 +49328,6 @@ export const films = [
 				"profileUrl": "/r0siecurrie/film/the-mummy-1999/1/",
 				"username": "🦇rosie🦇",
 				"review": "fellas is it gay to use your bro’s face to light a match"
-			},
-			{
-				"rating": "★★★★",
-				"profileUrl": "/silentdawn/film/the-mummy-1999/1/",
-				"username": "SilentDawn",
-				"review": "75"
 			},
 			{
 				"rating": "★★★★",
