@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/letterboxd/static/css/main.08262009.css",
-    "main.js": "/letterboxd/static/js/main.985a8523.js",
+    "main.js": "/letterboxd/static/js/main.0210b690.js",
     "static/js/787.589b8867.chunk.js": "/letterboxd/static/js/787.589b8867.chunk.js",
     "static/media/AbhayaLibre-ExtraBold.ttf": "/letterboxd/static/media/AbhayaLibre-ExtraBold.9317e428ef78470c7b42.ttf",
     "static/media/Inter-ExtraBold.ttf": "/letterboxd/static/media/Inter-ExtraBold.4164cfba15dbca5f37aa.ttf",
@@ -11,11 +11,11 @@
     "static/media/LexendMega-Light.ttf": "/letterboxd/static/media/LexendMega-Light.25ee8e9c73062c118e00.ttf",
     "index.html": "/letterboxd/index.html",
     "main.08262009.css.map": "/letterboxd/static/css/main.08262009.css.map",
-    "main.985a8523.js.map": "/letterboxd/static/js/main.985a8523.js.map",
+    "main.0210b690.js.map": "/letterboxd/static/js/main.0210b690.js.map",
     "787.589b8867.chunk.js.map": "/letterboxd/static/js/787.589b8867.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.08262009.css",
-    "static/js/main.985a8523.js"
+    "static/js/main.0210b690.js"
   ]
 }
