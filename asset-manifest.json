@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/letterboxd/static/css/main.073c9b0a.css",
-    "main.js": "/letterboxd/static/js/main.8fe397ab.js",
+    "main.css": "/letterboxd/static/css/main.08262009.css",
+    "main.js": "/letterboxd/static/js/main.985a8523.js",
     "static/js/787.589b8867.chunk.js": "/letterboxd/static/js/787.589b8867.chunk.js",
-    "static/media/logo.svg": "/letterboxd/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/AbhayaLibre-ExtraBold.ttf": "/letterboxd/static/media/AbhayaLibre-ExtraBold.9317e428ef78470c7b42.ttf",
+    "static/media/Inter-ExtraBold.ttf": "/letterboxd/static/media/Inter-ExtraBold.4164cfba15dbca5f37aa.ttf",
+    "static/media/Inter-Bold.ttf": "/letterboxd/static/media/Inter-Bold.0eaf807b1cf0eceabe0f.ttf",
+    "static/media/Inter-SemiBold.ttf": "/letterboxd/static/media/Inter-SemiBold.6058d3da655fb35169c2.ttf",
+    "static/media/Inter-Medium.ttf": "/letterboxd/static/media/Inter-Medium.3f7acfe50aad7ad68548.ttf",
+    "static/media/LexendMega-Light.ttf": "/letterboxd/static/media/LexendMega-Light.25ee8e9c73062c118e00.ttf",
     "index.html": "/letterboxd/index.html",
-    "main.073c9b0a.css.map": "/letterboxd/static/css/main.073c9b0a.css.map",
-    "main.8fe397ab.js.map": "/letterboxd/static/js/main.8fe397ab.js.map",
+    "main.08262009.css.map": "/letterboxd/static/css/main.08262009.css.map",
+    "main.985a8523.js.map": "/letterboxd/static/js/main.985a8523.js.map",
     "787.589b8867.chunk.js.map": "/letterboxd/static/js/787.589b8867.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.8fe397ab.js"
+    "static/css/main.08262009.css",
+    "static/js/main.985a8523.js"
   ]
 }
