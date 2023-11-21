@@ -1401,7 +1401,7 @@ export const films = [
 				"rating": "★★★★½",
 				"profileUrl": "/elaurapictures/film/the-truman-show/",
 				"username": "Laura",
-				"review": "the more i think about the ending, the more i feel bad for truman. the way he’s entering a world where he expects to finally be free and in charge of his own destiny, but is actually entering an environment where everyone knows him & has watched him his whole life, and will treat him differently based on what they have learned to expect of him."
+				"review": "the more i think about the ending, the more i feel bad for [redacted]. the way he’s entering a world where he expects to finally be free and in charge of his own destiny, but is actually entering an environment where everyone knows him & has watched him his whole life, and will treat him differently based on what they have learned to expect of him."
 			},
 			{
 				"rating": "★★★★½",
@@ -1419,7 +1419,7 @@ export const films = [
 				"rating": "★★★★★",
 				"profileUrl": "/filmforgetter/film/the-truman-show/",
 				"username": "Jaxi",
-				"review": "if i was truman i would simply have whipped the shlong out that woulda made em cut to commercial"
+				"review": "if i was [redacted] i would simply have whipped the shlong out that woulda made em cut to commercial"
 			},
 			{
 				"rating": "★★★★",
@@ -1428,23 +1428,11 @@ export const films = [
 				"review": "the huge audience watching me through the thousands of hidden cameras in my world: why doesn't this bitch just do her homework?"
 			},
 			{
-				"rating": "★★★★★",
-				"profileUrl": "/hannahwho/film/the-truman-show/",
-				"username": "hannah",
-				"review": "it’s never too early in the morning for an existential crisis am I right ladies"
-			},
-			{
 				"rating": "★★★★½",
 				"profileUrl": "/tototoro/film/the-truman-show/1/",
 				"username": "sree",
 				"review": "how long till someone ironically makes this real"
 			},
-			{
-				"rating": "★★★★★",
-				"profileUrl": "/mank/film/the-truman-show/3/",
-				"username": "abigail.",
-				"review": "imagine being able to make a man devote his life to seeing you again after speaking to him for one night... sylvia’s power"
-			}
 		]
 	},
 	{
@@ -4013,7 +4001,7 @@ export const films = [
 				"rating": "★★★★★",
 				"profileUrl": "/cathyk/film/arrival-2016/4/",
 				"username": "cathy",
-				"review": "memory is a strange thing. for example, i remember amy adams's performance as being one of the best of 2016, but the academy seemed to remember differently"
+				"review": "memory is a strange thing. for example, i remember amy adams's performance as being one of the best of [year], but the academy seemed to remember differently"
 			},
 			{
 				"rating": "★★★★★",
@@ -4067,7 +4055,7 @@ export const films = [
 				"rating": "★★★★★",
 				"profileUrl": "/juliannemooore/film/arrival-2016/1/",
 				"username": "alan",
-				"review": "amy adams: hi\nthe academy: i'm calling the police"
+				"review": "amy adams: hi——the academy: i'm calling the police"
 			}
 		]
 	},
@@ -19039,12 +19027,6 @@ export const films = [
 			},
 			{
 				"rating": "★★★½",
-				"profileUrl": "/brat/film/mamma-mia/1/",
-				"username": "brat pacino",
-				"review": "sam: step-dadbill: biological dad (probably)harry: just happy to be there :)"
-			},
-			{
-				"rating": "★★★½",
 				"profileUrl": "/madihatesfilm/film/mamma-mia/",
 				"username": "Madison 🎭",
 				"review": "who says white people have no culture"
@@ -19071,7 +19053,7 @@ export const films = [
 				"rating": "★★★½",
 				"profileUrl": "/childrenofmen/film/mamma-mia/",
 				"username": "cinephile... 🕯️",
-				"review": "y'all: this movie is bad\nme, booty poppin to abba: i don't care"
+				"review": "y'all: this movie is bad——me, booty poppin to abba: i don't care"
 			},
 			{
 				"rating": "★★★★★",
@@ -19986,12 +19968,6 @@ export const films = [
 				"profileUrl": "/ianamurray/film/vertigo/",
 				"username": "iana",
 				"review": "when midge shows john her carlotta painting, someone couldn't stop laughing for 5 minutes...we are very professional film students"
-			},
-			{
-				"rating": "★★★★★",
-				"profileUrl": "/silentdawn/film/vertigo/",
-				"username": "SilentDawn",
-				"review": "100/100"
 			},
 			{
 				"rating": "★★★★",
@@ -21609,7 +21585,7 @@ export const films = [
 		]
 	},
 	{
-		"title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+		"title": "Birds of Prey",
 		"year": "2020",
 		"rating": "3.05",
 		"reviews": [
@@ -41647,13 +41623,13 @@ export const films = [
 				"rating": "★★★★★",
 				"profileUrl": "/nycsubwayrat/film/paddington-2/1/",
 				"username": "lauren",
-				"review": "people who don’t cry over paddington are the weaker species and will be taken by natural selection"
+				"review": "people who don’t cry over [redacted] are the weaker species and will be taken by natural selection"
 			},
 			{
 				"rating": "★★★★★",
 				"profileUrl": "/fakefilmfan/film/paddington-2/1/",
 				"username": "Stephanie",
-				"review": "that part where Paddington cures that man's depression by just cleaning his windows and letting the sun come in? that's what happens to me when I watch anything involving this little bear."
+				"review": "that part where [redacted] cures that man's depression by just cleaning his windows and letting the sun come in? that's what happens to me when I watch anything involving this little bear."
 			},
 			{
 				"rating": "★★★★",
@@ -41671,7 +41647,7 @@ export const films = [
 				"rating": "★★★★½",
 				"profileUrl": "/sophiedarcy/film/paddington-2/1/",
 				"username": "sophie",
-				"review": "my dad left the room when sally hawkins dived in the water because he thought she was gonna \"do stuff with Paddington like she did in the fish movie\""
+				"review": "my dad left the room when sally hawkins dived in the water because he thought she was gonna \"do stuff with [redacted] like she did in the fish movie\""
 			},
 			{
 				"rating": "★★★★★",
@@ -41689,14 +41665,8 @@ export const films = [
 				"rating": "★★★★★",
 				"profileUrl": "/fakefilmfan/film/paddington-2/2/",
 				"username": "Stephanie",
-				"review": "the scene at the end when everyone is thanking Paddington for everything he does for them and he has this confused look on his face because he does everything out of the goodness of his heart, without expecting anything in return. where's his oscar?"
+				"review": "the scene at the end when everyone is thanking [redacted] for everything he does for them and he has this confused look on his face because he does everything out of the goodness of his heart, without expecting anything in return. where's his oscar?"
 			},
-			{
-				"rating": "★★★★★",
-				"profileUrl": "/sophiedarcy/film/paddington-2/4/",
-				"username": "sophie",
-				"review": "someone: of course, the best prison movie is the shawshank redemption\nme, thinking about the prison break scene in paddington 2: yeah ok"
-			}
 		]
 	},
 	{
@@ -42749,12 +42719,6 @@ export const films = [
 				"profileUrl": "/olivierassayas/film/pretty-woman/",
 				"username": "guilherme",
 				"review": "julia roberts pretty much invented the sugar daddy culture y'll should be thankful"
-			},
-			{
-				"rating": "★★★★½",
-				"profileUrl": "/meggie19/film/pretty-woman/",
-				"username": "♡megan♡",
-				"review": "big mistake. big! HUGE!"
 			},
 			{
 				"rating": "★★★½",
@@ -48062,13 +48026,7 @@ export const films = [
 				"rating": "★★★★★",
 				"profileUrl": "/mars_logs/film/mamma-mia-here-we-go-again/",
 				"username": "Mars 🍭",
-				"review": "This has MAJOR continuity issues and we know the younger cast members pale in comparison to the older ones but you know what? I DON’T CARE! Lily James cartwheeling all over a field for no apparent reason watered my crops! Christine Baranski’s high kick in Angel Eyes cleared my skin! Colin Firth and Stellan Skarsgard doing the Titanic pose and dancing on the ship gave me my rights! Mamma Mia: Here We Fucking Go Again Bitch!"
-			},
-			{
-				"rating": "★★★★★",
-				"profileUrl": "/harleyraejepsen/film/mamma-mia-here-we-go-again/",
-				"username": "harley",
-				"review": "the fact that some of you are pretentious enough to walk into a movie musical sequel based on a literal broadway show with a plot told entirely through abba songs that stars cher to then walk out of it and post a letterboxd review calling it “cheesy” or “over the top” or “ridiculous” is genuinely astonishing to me like please let yourselves have a little bit of fun every once in a while i promise it will make people like you more"
+				"review": "This has MAJOR continuity issues and we know the younger cast members pale in comparison to the older ones but you know what? I DON’T CARE! Lily James cartwheeling all over a field for no apparent reason watered my crops! Christine Baranski’s high kick in Angel Eyes cleared my skin! Colin Firth and Stellan Skarsgard doing the Titanic pose and dancing on the ship gave me my rights! [redacted] Bitch!"
 			},
 			{
 				"rating": "",
@@ -48101,12 +48059,6 @@ export const films = [
 				"review": "lily james singing the line “i believe in angels,” like, i sure hope she believes in herself"
 			},
 			{
-				"rating": "★★★★",
-				"profileUrl": "/siena_brown/film/mamma-mia-here-we-go-again/",
-				"username": "Siena 🌞",
-				"review": "how I met your Mamma Mia"
-			},
-			{
 				"rating": "★★★★★",
 				"profileUrl": "/gilliananderson/film/mamma-mia-here-we-go-again/",
 				"username": "Tess",
@@ -48122,7 +48074,7 @@ export const films = [
 				"rating": "★★★★",
 				"profileUrl": "/ianamurray/film/mamma-mia-here-we-go-again/",
 				"username": "iana",
-				"review": "don’t get me wrong i LOVE mamma mia but how did they find the 3 most mediocre-looking guys to play young bill, sam, and harry."
+				"review": "don’t get me wrong i LOVE [redacted] but how did they find the 3 most mediocre-looking guys to play young bill, sam, and harry."
 			},
 			{
 				"rating": "★★★",
